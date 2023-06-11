@@ -1,13 +1,13 @@
 import os
 
-DA_TOKEN = '3ufL1KfxVIlalud47oL8'
+DA_TOKEN = ''
 
-TG_API_ID = 9642740
-TG_API_HASH = 'cbef4484034fa81f1af50b65baaf1081'
+TG_API_ID = 0
+TG_API_HASH = ''
 
-TG_BOT_TOKEN = '2104579780:AAH0RDvkzzc1GepH7ud4msccHaolVNNmAps'
+TG_BOT_TOKEN = ''
 
-MY_ID = 1373461907
+MY_ID = 
 
 SEP = '_|_'
 
